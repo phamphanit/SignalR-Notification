@@ -1,0 +1,13 @@
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\bin\Debug\netcoreapp2.0\WiredBrain.deps.json
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\bin\Debug\netcoreapp2.0\WiredBrain.runtimeconfig.json
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\bin\Debug\netcoreapp2.0\WiredBrain.runtimeconfig.dev.json
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\bin\Debug\netcoreapp2.0\WiredBrain.dll
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\bin\Debug\netcoreapp2.0\WiredBrain.pdb
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\obj\Debug\netcoreapp2.0\WiredBrain.csprojAssemblyReference.cache
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\obj\Debug\netcoreapp2.0\WiredBrain.AssemblyInfoInputs.cache
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\obj\Debug\netcoreapp2.0\WiredBrain.AssemblyInfo.cs
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\obj\Debug\netcoreapp2.0\WiredBrain.dll
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\obj\Debug\netcoreapp2.0\WiredBrain.pdb
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\obj\Debug\netcoreapp2.0\WiredBrain.genruntimeconfig.cache
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\ServerSentEvents\obj\Debug\netcoreapp2.0\WiredBrain.csproj.CoreCompileInputs.cache

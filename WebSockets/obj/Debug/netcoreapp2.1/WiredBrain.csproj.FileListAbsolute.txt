@@ -1,0 +1,16 @@
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\bin\Debug\netcoreapp2.1\WiredBrain.deps.json
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\bin\Debug\netcoreapp2.1\WiredBrain.runtimeconfig.json
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\bin\Debug\netcoreapp2.1\WiredBrain.runtimeconfig.dev.json
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\bin\Debug\netcoreapp2.1\WiredBrain.dll
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\bin\Debug\netcoreapp2.1\WiredBrain.pdb
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.csprojAssemblyReference.cache
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.AssemblyInfoInputs.cache
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.AssemblyInfo.cs
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.csproj.CoreCompileInputs.cache
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.RazorAssemblyInfo.cache
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.RazorAssemblyInfo.cs
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.RazorTargetAssemblyInfo.cache
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.dll
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.pdb
+C:\Users\PHAM PHAN\Desktop\SignalR\02\demos\WebSockets\obj\Debug\netcoreapp2.1\WiredBrain.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WiredBrain", "WiredBrain.csproj", "{2C40270B-FF43-4395-A0BC-0AC8F21C5B72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C40270B-FF43-4395-A0BC-0AC8F21C5B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C40270B-FF43-4395-A0BC-0AC8F21C5B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C40270B-FF43-4395-A0BC-0AC8F21C5B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C40270B-FF43-4395-A0BC-0AC8F21C5B72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CD69F1C-B523-4AE8-AABA-4009E5C370AB}
+	EndGlobalSection
+EndGlobal
